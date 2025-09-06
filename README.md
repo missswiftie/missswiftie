@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missswiftie&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
 ### Languages and Tools
@@ -35,4 +35,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=missswiftie" />
+</div>
+
+### Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=missswiftie&theme=onestar" />
 </div>
