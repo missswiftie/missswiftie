@@ -27,7 +27,7 @@
 
 ### My Github Contributions
 
-<img src="https://ghchart.rshah.org/github-missswiftie" />
+<img src="https://ghchart.rshah.org/missswiftie" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=missswiftie" />
 
